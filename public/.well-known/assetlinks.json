@@ -1,0 +1,11 @@
+[
+      {
+            "relation": ["delegate_permission/common.handle_all_urls"],
+            "target": {
+                  "namespace": "android_app",
+                  "package_name": "app.txt_editor_jl.com",
+                  "sha256_cert_fingerprints":
+                  ["81:D8:AE:65:C6:FB:46:0B:97:96:2E:24:D4:7A:59:FA:53:7C:D8:39:BB:CD:F4:51:CF:16:54:0E:4C:44:D3:E5"]
+            }
+      }
+]
